@@ -18,13 +18,13 @@
 .login-form input[type="text"]:focus,
 .login-form input[type="password"]:focus {
     background: #d8f3df;
-    border-color: #2ddf5c;
+    border-color: #e28fd4;
 }
 
 .login-form input[type="submit"] {
-    background-color: #0e4f1f;
+    background-color: #552e6e;
     color: white;
-    border: 1.5px solid #0e4f1f;
+    border: 1.5px solid #421769;
     padding: 0.5rem;
     border-radius: 8px;
     font-size: 13px;
@@ -40,7 +40,7 @@
 
 
 .login-form input:invalid:focus {
-    border: 1px solid red;
+    border: 1px solid rgb(104, 49, 121);
     background: rgb(250, 172, 172);
 }
 
